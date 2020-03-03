@@ -8,8 +8,6 @@ After Ironhack, you have decided to work in the movie industry, and you've found
 
 We are going to create a contact management app with React for this producer.
 
-You can find the starter code in the starter code folder of this GitHub repo.
-
 ## Submission
 
 - Upon completion, run the following commands
@@ -25,7 +23,6 @@ You can find the starter code in the starter code folder of this GitHub repo.
 ## Installation
 
 ```
-$ cd starter-code
 $ npm install
 $ npm start
 ```
@@ -34,7 +31,7 @@ $ npm start
 
 ### Iteration 1 | Display 5 Contacts
 
-Let's take a look at the starter code.
+Let's take a look at our starter code.
 
 Inside `src` folder, we can find `contacts.json`, a JSON file with the producer's contacts. Import this file and **create an array of the 5 first contacts** to use as your initial state.
 
